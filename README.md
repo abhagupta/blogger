@@ -12,7 +12,7 @@ https://radiant-harbor-48524.herokuapp.com/
 
 ```
 	> git clone git@github.com:abhagupta/blogger.git
-	> cd ReduxSimpleStarter
+	> cd blogger
 	> npm install
 	> npm start
 ```

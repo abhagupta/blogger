@@ -1,6 +1,9 @@
 # Blogger Application in React and Redux
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+- Shows a list of blogs
+- Lets you add a blog
+- Lets you see details of a blog
+- Delete a blog
 
 ### Heroku deployed app
 https://radiant-harbor-48524.herokuapp.com/
@@ -15,7 +18,7 @@ https://radiant-harbor-48524.herokuapp.com/
 ```
 
 ####Concepts used
--Redux
--React-router
--React-middleware
--Post calls to API
+- Redux
+- React-router
+- React-middleware
+- Post calls to API
